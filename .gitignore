@@ -1,0 +1,8 @@
+.env
+
+secret/
+secrets/
+
+a.txt
+
+*.log
